@@ -5,6 +5,7 @@ Tecnologias usadas:
 - HTML
 - CSS
 - Javascript
+- Typescript
 - Reactjs
 - Nextjs
 - Firebase
